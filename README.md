@@ -14,4 +14,5 @@ This is a java program to write to kafka topic from twitter stream.
 Compile using 
 
 1) javac -cp "/home/navin/software/kafka/libs/*":"/home/navin/Downloads/twitter4j-4.0.4/lib/*":. KafkaTwitterProducer.java
+
 2) java -cp "/home/navin/software/kafka/libs/*":"/home/navin/Downloads/twitter4j-4.0.4/lib/*":. KafkaTwitterProducer
